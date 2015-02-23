@@ -1,10 +1,7 @@
 """
-Assignment 1 for CISC 235, Winter 2015
+Data Structures Assignment
 
-Written by: Anastasiya Tarnouskaya (10092484)
-
-I confirm that this submission is my own work and is consistent
-with the Queen's regulations on Academic Integrity
+Written by: Anastasiya Tarnouskaya
 """
 import random
 import time
